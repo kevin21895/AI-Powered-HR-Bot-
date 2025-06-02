@@ -48,7 +48,7 @@ A user-friendly chatbot that answers HR-related queries from Nestlé employees b
 
 ```plaintext
 nestle_hr_chatbot/
-├── Nestle_HR_Policies.pdf
+├── the_nestle_hr_policy.pdf
 ├── chatbot.ipynb
 ├── README.md
 └── requirements.txt
